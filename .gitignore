@@ -1,0 +1,23 @@
+# Python cache and local tooling
+__pycache__/
+.workbuddy/
+*.py[cod]
+
+# Local build output and preserved historical releases
+archive_local/
+build/
+build_*/
+dist/
+dist_*/
+ffmpeg9/
+mediamtx/
+RTSP推流工具*/
+
+# Logs, captures, and temporary verification files
+*.log
+*.ts
+*.sdp
+*.yml
+*.zip
+*.exe
+
